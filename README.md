@@ -20,7 +20,7 @@ This was my firt freelance project as a developer. A website for the Fio de Chor
 ---
 React and Node project for __"The Complete Web Developor in 2020"__ course.
 
-Front-End -> [GitHub Repo](https://github.com/allangpio/smart-eyes) || [Live demo](https://smart-eye-face-recognition.herokuapp.com)
+Front-End -> [GitHub Repo](https://github.com/allangpio/smart-eyes) || [Live demo](https://smart-eye-face-recognition.herokuapp.com) <br>
 Back-End -> [GitHub Repo](https://github.com/allangpio/smart-brain-api)
 
 ---
