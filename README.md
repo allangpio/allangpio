@@ -13,22 +13,22 @@ My goal is to have some solid skills with React and React Native for the Front-E
 ---
 This was my firt freelance project as a developer. A website for the Fio de Choro quartet.
 
-[GitHub Repo](https://github.com/allangpio/fiosdechoro_site) [Live](http://www.fiosdechoro.com.br)
+[GitHub Repo](https://github.com/allangpio/fiosdechoro_site) || [Live](http://www.fiosdechoro.com.br)
 
 ---
 #### Smart Eye
 ---
 React and Node project for __"The Complete Web Developor in 2020"__ course.
 
-Front-End -> [GitHub Repo](https://github.com/allangpio/smart-eyes) [Live demo](https://smart-eye-face-recognition.herokuapp.com)
-Back-End -> [GitHubRepo](https://github.com/allangpio/smart-brain-api)
+Front-End -> [GitHub Repo](https://github.com/allangpio/smart-eyes) || [Live demo](https://smart-eye-face-recognition.herokuapp.com)
+Back-End -> [GitHub Repo](https://github.com/allangpio/smart-brain-api)
 
 ---
 #### Bookmark landing page
 ---
 Project based on a Frontend Mentor
 
-[GitHub Repo](https://github.com/allangpio/bookmark-landing-page) [Live demo](https://allangpio.github.io/bookmark-landing-page/)
+[GitHub Repo](https://github.com/allangpio/bookmark-landing-page) || [Live demo](https://allangpio.github.io/bookmark-landing-page/)
 
 
 
