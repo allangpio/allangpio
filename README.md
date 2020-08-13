@@ -11,9 +11,9 @@ I'm currently taking the GoStack Bootcamp from Rocketseat 🚀
 I'm dedicating myself to develop a plataform togheter with the [Pontes da Terra NGO](https://pontesdaterra.com.br/) to register local farmers, making it easier for them to be reached by people interested in their products. This project is based on the #NLW1 from Rocketseat.
 
 
-### Some of the projects that i've worked through
+### 💻 Some of my projects
 
-- Fios de Choro
+**Fios de Choro**
 
 This was my firt freelance project as a developer. A website for the Fio de Choro quartet using HTML, SASS and JavaScript.
 
@@ -21,7 +21,7 @@ This was my firt freelance project as a developer. A website for the Fio de Chor
 [Repo](https://github.com/allangpio/fiosdechoro_site) 
 
 
-- Smart Eye - Face Recognition App
+**Smart Eye - Face Recognition App**
 
 React and Node project for __"The Complete Web Developor in 2020"__ course.
 
@@ -30,14 +30,14 @@ Front-End -> [Repo](https://github.com/allangpio/smart-eyes) <br>
 Back-End -> [Repo](https://github.com/allangpio/smart-brain-api)
 
 
-- Bookmark landing page
+**Bookmark landing page**
 
 Frontend Mentor Challenge
 
 [Live demo](https://allangpio.github.io/bookmark-landing-page/) <br>
 [Repo](https://github.com/allangpio/bookmark-landing-page)
 
-- JavaScript Practice Projects
+**JavaScript Practice Projects**
 
 Some projects to practice JavaScript on the Front-End.
 
