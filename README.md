@@ -6,7 +6,7 @@ Hi, I'm Allan and I've started to study Web Development this year (2020). I've a
 
 My goal is to have some solid skills with React and React Native for the Front-End. As for the Back-End, I'm studying Node and PostgreSQL.
 
-### Some of the project that i've been working on
+### Some of the projects that i've been working on
 
 ---
 #### Fios de Choro
