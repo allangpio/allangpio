@@ -28,7 +28,7 @@ Back-End -> [Repo](https://github.com/allangpio/smart-brain-api)
 
 ### Bookmark landing page
 
-Project based on a Frontend Mentor Challenge
+Frontend Mentor Challenge
 
 [Live demo](https://allangpio.github.io/bookmark-landing-page/) <br>
 [Repo](https://github.com/allangpio/bookmark-landing-page)
