@@ -1,6 +1,6 @@
 # Allan Gaia Pio 🔭
 
-Hi, I'm Allan and I've started to study Web Development this year (2020). I've always wanted to start studying programming languages and finally this year I was able to start this new project. I'm a former economist and my goal always was to develop content that is useful to other and as an economist I did it trhough data analasys of the brazillian educational system.
+Hi, I'm Allan and I've started to study Web Development this year (2020). I've always wanted to start studying programming languages and finally I was able to start this new project and I'm eager to put my new skills into practice. I'm a former economist and my goal always was to develop content that is useful to other and as an economist I did it trhough data analasys of the brazillian educational system.
 
 ### 📖 What am I currently learning?
 
@@ -10,39 +10,6 @@ I'm currently taking the GoStack Bootcamp from Rocketseat 🚀
 ### 🛠️ Projects I'm currently working on
 I'm dedicating myself to develop a plataform togheter with the [Pontes da Terra NGO](https://pontesdaterra.com.br/) to register local farmers, making it easier for them to be reached by people interested in their products. This project is based on the #NLW1 from Rocketseat.
 
-
-### 💻 Some of my projects
-
-**Fios de Choro**
-
-This was my firt freelance project as a developer. A website for the Fio de Choro quartet using HTML, SASS and JavaScript.
-
-[Live](http://www.fiosdechoro.com.br) <br>
-[Repo](https://github.com/allangpio/fiosdechoro_site) 
-
-
-**Smart Eye - Face Recognition App**
-
-React and Node project for __"The Complete Web Developor in 2020"__ course.
-
-[Live demo](https://smart-eye-face-recognition.herokuapp.com) <br>
-Front-End -> [Repo](https://github.com/allangpio/smart-eyes) <br>
-Back-End -> [Repo](https://github.com/allangpio/smart-brain-api)
-
-
-**Bookmark landing page**
-
-Frontend Mentor Challenge
-
-[Live demo](https://allangpio.github.io/bookmark-landing-page/) <br>
-[Repo](https://github.com/allangpio/bookmark-landing-page)
-
-**JavaScript Practice Projects**
-
-Some projects to practice JavaScript on the Front-End.
-
-[Live demo](https://allangpio.github.io/JS-practice-projects/)
-[Repo](https://github.com/allangpio/JS-practice-projects)
 
 ### Get in touch 😊
 
